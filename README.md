@@ -93,6 +93,3 @@ sudo ipv6-menu
 
 本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)授权。详情请见 `LICENSE` 文件。
 ```
-4.  滚动到页面底部，点击 "Commit changes" 按钮即可。
-
-您的项目主页现在会变得非常专业和漂亮！
