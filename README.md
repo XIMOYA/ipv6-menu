@@ -56,7 +56,10 @@ sudo ipv6-menu
 
 您会看到类似下面的界面，根据提示输入数字即可：
 
-![脚本使用截图]()
+![脚本使用截图](https://img.cdn1.vip/i/68df227193c9c_1759453809.png)
+![脚本使用截图](https://img.cdn1.vip/i/68df22afc06c8_1759453871.png)
+![脚本使用截图](https://img.cdn1.vip/i/68df22d380cfa_1759453907.png)
+![脚本使用截图](https://img.cdn1.vip/i/68df22e225ddc_1759453922.png)
 
 -   输入 `1`：启用 IPv6。
 -   输入 `2`：禁用 IPv6。
