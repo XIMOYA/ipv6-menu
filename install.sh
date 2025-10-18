@@ -11,7 +11,6 @@
 # ==============================================================================
 
 # --- 配置 ---
-# 请将下面的 URL 替换为您自己 ipv6-menu.sh 脚本的真实 Raw URL
 SOURCE_URL="https://raw.githubusercontent.com/XIMOYA/ipv6-menu/main/ipv6-menu.sh"
 # 定义安装后的命令名和路径
 INSTALL_PATH="/usr/local/bin/ipv6-menu"
